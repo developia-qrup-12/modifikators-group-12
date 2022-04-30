@@ -10,6 +10,8 @@ public class Main {
 	
 	UserInterface userInterface=new User();
 	userInterface.helloInterface();
+		System.out.println("Hello");
+
 		
 
 
